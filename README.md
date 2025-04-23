@@ -3,16 +3,16 @@ A simple Python implementation of the classic 2048 game using a 4x4 grid and Tki
 
 Features:
 
-Classic 2048 gameplay
+-Classic 2048 gameplay
 
-Tkinter-based GUI
+-Tkinter-based GUI
 
-Score tracking
+-Score tracking
 
-Game over detection
+-Game over detection
 
 How to Run:
 
-Press F5 or Run in Visual Studio Code or Python IDLE or in any other alternatives.
+-Press F5 or Run in Visual Studio Code or Python IDLE or in any other alternatives.
 
-Requires Python with Tkinter module.
+-Requires Python with Tkinter module.
